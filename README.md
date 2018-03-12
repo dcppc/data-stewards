@@ -12,16 +12,16 @@
 - We want this to be a partnership wrt role definition, how things change over time, how to make best use of resources
 - We recognize that Push/pull models, protocols will change over time
 
-## Agreement
-- The alliance site will be used to obtain GO associations 
-- Items like 
-- Pathogenicity
-- Orthology/Conservation/Homologs schema 
-- These are underway, we will develop a Request For Data (RFD)  for these items on GitHub
-
 ## Agreement: for each data source we will record:
 - Version
 - Short manifest, preferably computable
 - Point of contact (POC)
 - Schema version
 - Is this possible: Description for generation dataset in the manifest - how it would be re-generated and transferred to the full stacks if that POC turned into a pump
+
+## Agreement - Alliance / MODs
+- The alliance site will be used to obtain GO associations 
+- Items like 
+- Pathogenicity
+- Orthology/Conservation/Homologs schema 
+- These are underway, we will develop a Request For Data (RFD)  for these items on GitHub
