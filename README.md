@@ -1,6 +1,6 @@
 # Commons Data Stewards Github Repo
 
-** This document derived from March 5th, 2018 data steward conference call. **
+**This document derived from March 5th, 2018 data steward conference call.**
 
 ## Introduction
 - Short introduction to the Data Commons
