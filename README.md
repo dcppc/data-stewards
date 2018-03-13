@@ -20,8 +20,14 @@
 - Is this possible: Description for generation dataset in the manifest - how it would be re-generated and transferred to the full stacks if that POC turned into a pump
 
 ## Agreement - Alliance / MODs
-- The alliance site will be used to obtain GO associations 
-- Items like 
-- Pathogenicity
-- Orthology/Conservation/Homologs schema 
-- These are underway, we will develop a Request For Data (RFD)  for these items on GitHub
+- The Alliance site (aliancegenome.org), cloud file access, GOC API will be used to obtain gene function (aka GO annotations) 
+- Items such as these can be obtained from DC cloud file access, and soon Alliance API. 
+  - Disease associations (Disease Ontology)
+  - Chromosomal features (Sequence Ontology)
+  - Orthology/Conservation/Homologs schema 
+  - Basic Gene Information
+  - Expression (soon) - available from select MODs now
+  - Phenotypes (soon) - available from select MODs now
+  - Physical and Genetic interactions (soon) - available from select MODs now
+  - Others are in progress and well be release when available
+- Requests for other data should be requested, we will develop a Request For Data (RFD) for these items on GitHub.  Many of these requests are likely straightforward.  The Alliance is currently focusing on data types are that are shared between all member projects.  If the data you require is only available from a subset of the MODs please file a ticket.
