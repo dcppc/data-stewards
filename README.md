@@ -18,7 +18,7 @@
 - Point of contact (POC)
 - Schema version
 - Is this possible: Description for generation dataset in the manifest - how it would be re-generated and transferred to the full stacks if that POC turned into a pump
-
+---
 **The Alliance manifest is [[here](https://docs.google.com/document/d/1QsZNNV-4XHQUy0QaNfNkjn5bblWdaprQhHJjq5loWOU/edit)]**
 ## Agreement - Alliance / MODs
 - The Alliance site (aliancegenome.org), cloud file access, GOC API will be used to obtain gene function (aka GO annotations) 
