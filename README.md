@@ -4,7 +4,7 @@
 
 ## Introduction
 - Short introduction to the [Data Commons](https://docs.google.com/document/d/1bl2pLzjqXJLP2rpwXVuytx3HnCYRhZ7YBPEPOJz34Ak/edit)
-- The KCs are described [here](https://docs.google.com/document/d/1bl2pLzjqXJLP2rpwXVuytx3HnCYRhZ7YBPEPOJz34Ak/edit).
+- The KCs are described [here](https://docs.google.com/document/d/1bl2pLzjqXJLP2rpwXVuytx3HnCYRhZ7YBPEPOJz34Ak/edit). See, in particular, KC7, which is [focused on indexing](https://docs.google.com/document/d/19XnfSvzbVsM-z2ud4rOgpnKG9HrdpdDqLG0mQvzNDxM).
 - There are many dimensions of the commons and at different levels of maturity
 - It is recognized that much of this should be driven by usecases, and the DCPPC-  developers should be sharing these with the Data Stewards as soon as possible. Our use-case situation is complicated - we need to push forward in the meantime
 
