@@ -31,4 +31,4 @@
   - Phenotypes (soon) - available from select MODs now
   - Physical and Genetic interactions (soon) - available from select MODs now
   - Others are in progress and well be release when available
-- Requests for other data should be requested, we will develop a Request For Data (RFD) for these items on GitHub.  Many of these requests are likely straightforward.  The Alliance is currently focusing on data types are that are shared between all member projects.  If the data you require is only available from a subset of the MODs please file a ticket.
+The Alliance is currently focusing on data types are that are shared between all member projects.  If the data you require is only available from a subset of the MODs please file a ticket.
