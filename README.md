@@ -24,8 +24,8 @@
 - GTEx: -- Francois Aguet francois@broadinstitute.org -- Kristin Ardlie kardlie@broadinstitute.org
 - MODs -- Mike Cherry cherry@stanford.edu -- Travis Sheppard tshepp@stanford.edu
 
-**The Alliance manifest is [[here](https://docs.google.com/document/d/1QsZNNV-4XHQUy0QaNfNkjn5bblWdaprQhHJjq5loWOU/edit)]**
 ## Agreement - Alliance / MODs
+**The Alliance manifest is [[here](https://docs.google.com/document/d/1QsZNNV-4XHQUy0QaNfNkjn5bblWdaprQhHJjq5loWOU/edit)]**
 - The Alliance site ([alliancegenome.org](http://www.alliancegenome.org)), cloud file access, GOC API will be used to obtain gene function (aka GO annotations) 
 - Items such as these can be obtained from DC cloud file access, and soon Alliance API. 
   - Disease associations (Disease Ontology)
