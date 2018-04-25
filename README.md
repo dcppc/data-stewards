@@ -20,12 +20,9 @@
 - Is this possible: Description for generation dataset in the manifest - how it would be re-generated and transferred to the full stacks if that POC turned into a pump
 ---
 ## Data Stewards points of contact:
-- TOPMed:
--- Albert Smith albertvs@umich.edu
--- Cathy Laurie cclaurie@uw.edu
-- MODs
--- Mike Cherry cherry@stanford.edu
--- Travis Sheppard tshepp@stanford.edu
+- TOPMed: -- Albert Smith albertvs@umich.edu -- Cathy Laurie cclaurie@uw.edu
+- GTEx: -- Francois Aguet francois@broadinstitute.org -- Kristin Ardlie kardlie@broadinstitute.org
+- MODs -- Mike Cherry cherry@stanford.edu -- Travis Sheppard tshepp@stanford.edu
 
 **The Alliance manifest is [[here](https://docs.google.com/document/d/1QsZNNV-4XHQUy0QaNfNkjn5bblWdaprQhHJjq5loWOU/edit)]**
 ## Agreement - Alliance / MODs
