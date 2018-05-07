@@ -1,6 +1,6 @@
 # TOPMed Pitfalls
 07 May 2018
-Submitted in response to Data Stewards [Github Issue 6](https://github.com/dcppc/data-stewards/issues/6) by Ben Heavner (bheavner@uw.edu) for TOPMed
+Submitted in response to Data Stewards [Github Issue 6](https://github.com/dcppc/data-stewards/issues/6) by Ben Heavner (bheavner...at...uw.edu) for TOPMed
 
 Because of the access-controlled nature of the data, TOPMed is structured so that users have to make specific proposals and describe their intended data usage prior to gaining access to the data via dbGaP, so there is lots of opportunity for the community to evaluate the intended data usage and any potential for misuse. Our organizational structure is intended to prevent widespread significant data misuse, and seems to have succeeded at that goal so far.
 
