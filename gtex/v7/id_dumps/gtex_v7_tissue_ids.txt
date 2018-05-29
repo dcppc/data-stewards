@@ -1,6 +1,6 @@
 Native form	Prefixed form	URI	Destination URL	Outgoing URI	Entity Type
-Adipose_Subcutaneous	Adipose_Subcutaneous				gross_anatomical_structure
-Adipose_Visceral_Omentum	Adipose_Visceral_Omentum				gross_anatomical_structure
+Adipose_Subcutaneous	Adipose_Subcutaneous	(not resolvable)	(not resolvable)	http://purl.obolibrary.org/obo/UBERON_0002190	gross_anatomical_structure
+Adipose_Visceral_Omentum	Adipose_Visceral_Omentum	(not resolvable)	(not resolvable)	http://purl.obolibrary.org/obo/UBERON_0014454	gross_anatomical_structure
 Adrenal_Gland	Adrenal_Gland				gross_anatomical_structure
 Artery_Aorta	Artery_Aorta				gross_anatomical_structure
 Artery_Coronary	Artery_Coronary				gross_anatomical_structure
